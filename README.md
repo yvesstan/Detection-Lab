@@ -41,6 +41,15 @@ I also checked out the CNameString to find the user and the Host. Since it has t
 
 With all the information i found, I wanted to check Wireshark's object list for http since we found some tcp stream indicating "POST" with ".JPG" and then i found downloadable files. I downloaded each file get their file hashes.
 
+![](https://github.com/yvesstan/Detection-Lab/blob/main/10.png)
+
+![](https://github.com/yvesstan/Detection-Lab/blob/main/11.png)
+
+![](https://github.com/yvesstan/Detection-Lab/blob/main/12.png)
+
+
+I found some info on the files using VirusTotal and checked the properties of each file to see if I can find more interesting things but in this case I just saved the sizes of each file.
+
 
 
 
