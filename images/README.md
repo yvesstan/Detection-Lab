@@ -13,7 +13,7 @@ The incident report should contain the following:
 
 • Analysis Findings
 
-![](https://github.com/yvesstan/Detection-Lab/images/blob/main/1.png)
+![](https://github.com/yvesstan/Detection-Lab/blob/main/1.png)
 
 ![](https://github.com/yvesstan/Detection-Lab/blob/main/2.png)
 
